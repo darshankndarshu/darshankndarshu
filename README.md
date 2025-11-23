@@ -1,7 +1,7 @@
 
-# 💫 About Me: Hi 👋, I'm Darshan 
-                   
-                A passionate developer from India 🇮🇳
+# 💫 About Me: Hi 👋, I'm Darshan KN
+                          
+   A passionate developer from India 🇮🇳
 
 ~ i'm student!
 
