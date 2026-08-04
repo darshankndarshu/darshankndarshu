@@ -13,7 +13,7 @@
 
 ~ 📫 Reach out to me at kndarshan15@gmail.com
 
-<h3 align="left">GitHub Stats:</h3>
+<h3 align="left">GitHub Stats:</h3> 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dacchudarshan&" alt="dacchudarshan" /></p>
 
