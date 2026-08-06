@@ -9,7 +9,7 @@
 
 ~ 👨‍💻 I’m currently studying on Master Of Science (DATA SCIENCE) 
 
-~ 🌱 I’m currently learning System Design and Agentic AI
+~ 🌱 I’m currently learning System Design and Agentic AI 
 
 ~ 📫 Reach out to me at kndarshan15@gmail.com
 
