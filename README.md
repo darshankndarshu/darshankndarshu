@@ -7,7 +7,7 @@
 
 ~  i'm student!
 
-~ 👨‍💻 I’m currently studying on Master Of Science (DATA SCIENCE)
+~ 👨‍💻 I’m currently studying on Master Of Science (DATA SCIENCE) 
 
 ~ 🌱 I’m currently learning System Design and Agentic AI
 
