@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dacchudarshan&label=Profile%20views&color=0e75b6&style=flat" alt="dacchudarshan" /> </p>
  
-~  i'm student!
+~ 👨🏻‍💻 i'm student!
 
 ~ 👨‍💻 I’m currently working as a Software Engineer Intern at [**Algorithms365**](https://www.algorithms365.com)
 
